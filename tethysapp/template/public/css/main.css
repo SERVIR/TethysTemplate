@@ -1,0 +1,17 @@
+#app-content-wrapper #app-content {
+    height: 100%;
+}
+
+#inner-app-content {
+    padding: 0;
+    height: 100%;
+}
+
+#inner-app-content .intro_message {
+    margin-bottom: 0;
+}
+.panel{
+    -webkit-box-shadow: none;
+    box-shadow: none;
+    background-color: transparent;
+}
